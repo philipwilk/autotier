@@ -25,6 +25,7 @@
 #include <45d/Quota.hpp>
 #include <45d/config/ConfigSubsectionGuard.hpp>
 #include <regex>
+#include <list>
 #include <sstream>
 
 extern "C" {

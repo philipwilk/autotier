@@ -22,6 +22,7 @@
 #include "alert.hpp"
 #include "file.hpp"
 
+#include <list>
 #include <regex>
 #include <thread>
 

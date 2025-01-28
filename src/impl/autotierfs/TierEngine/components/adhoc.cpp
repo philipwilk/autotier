@@ -26,6 +26,7 @@
 #include "version.hpp"
 
 #include <iomanip>
+#include <list>
 #include <sstream>
 
 extern "C" {

@@ -20,6 +20,7 @@
 #include "TierEngine/components/base.hpp"
 
 #include "alert.hpp"
+#include <list>
 
 extern "C" {
 #include <grp.h>

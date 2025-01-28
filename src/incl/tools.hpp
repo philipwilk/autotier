@@ -20,6 +20,7 @@
 #pragma once
 
 #include <boost/filesystem.hpp>
+#include <list>
 #include <sstream>
 #include <string>
 #include <vector>

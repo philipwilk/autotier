@@ -24,6 +24,7 @@
 #include <boost/filesystem.hpp>
 #include <iostream>
 #include <regex>
+#include <list>
 #include <sstream>
 #include <vector>
 namespace fs = boost::filesystem;

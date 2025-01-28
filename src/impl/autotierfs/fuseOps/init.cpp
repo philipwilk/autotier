@@ -24,6 +24,7 @@
 #include "TierEngine/TierEngine.hpp"
 #include "fuseOps.hpp"
 #include "fusePassthrough.hpp"
+#include <list>
 
 extern "C" {
 #include <pthread.h>

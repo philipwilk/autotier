@@ -24,6 +24,7 @@
 
 #include <45d/config/ConfigParser.hpp>
 #include <45d/socket/UnixSocketClient.hpp>
+#include <list>
 #include <sstream>
 #include <thread>
 

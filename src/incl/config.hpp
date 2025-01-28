@@ -24,6 +24,7 @@
 #include <45d/config/ConfigParser.hpp>
 #include <boost/filesystem.hpp>
 #include <chrono>
+#include <list>
 namespace fs = boost::filesystem;
 
 #define DEFAULT_CONFIG_PATH "/etc/autotier.conf"
